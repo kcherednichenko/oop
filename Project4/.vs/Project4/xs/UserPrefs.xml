@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{76A8522D-CCE0-471F-B007-9E4EDE2DC88F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project4.1/UnitTest1.cs">
+    <Files>
+      <File FileName="Project4.1/CleaningByHybrid.cs" Line="33" Column="73" />
+      <File FileName="Project4.1/BackUpInfo.cs" />
+      <File FileName="Project4.1/Cleaning.cs" />
+      <File FileName="Project4.1/CleaningByAmount.cs" />
+      <File FileName="Project4.1/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project4" expanded="True">
+            <Node name="Project4" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ekaterinacerednicenko/VisualStudioProjects/Project4/Project4.1/CleaningByHybrid.cs" relfile="Project4.1/CleaningByHybrid.cs" line="30" column="1" />
+      <Breakpoint file="/Users/ekaterinacerednicenko/VisualStudioProjects/Project4/Project4.1/UnitTest1.cs" relfile="Project4.1/UnitTest1.cs" line="124" column="1" />
+      <Breakpoint file="/Users/ekaterinacerednicenko/VisualStudioProjects/Project4/Project4.1/UnitTest1.cs" relfile="Project4.1/UnitTest1.cs" line="131" column="1" />
+      <Breakpoint file="/Users/ekaterinacerednicenko/VisualStudioProjects/Project4/Project4.1/UnitTest1.cs" relfile="Project4.1/UnitTest1.cs" line="130" column="1" />
+      <Breakpoint file="/Users/ekaterinacerednicenko/VisualStudioProjects/Project4/Project4.1/UnitTest1.cs" relfile="Project4.1/UnitTest1.cs" line="128" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Project4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
