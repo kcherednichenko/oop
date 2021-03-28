@@ -1,0 +1,12 @@
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.csprojAssemblyReference.cache
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.AssemblyInfoInputs.cache
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.AssemblyInfo.cs
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.csproj.CoreCompileInputs.cache
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/bin/Debug/netcoreapp3.1/Project3.deps.json
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/bin/Debug/netcoreapp3.1/Project3.runtimeconfig.json
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/bin/Debug/netcoreapp3.1/Project3.runtimeconfig.dev.json
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/bin/Debug/netcoreapp3.1/Project3.dll
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/bin/Debug/netcoreapp3.1/Project3.pdb
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.dll
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.pdb
+/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/Debug/netcoreapp3.1/Project3.genruntimeconfig.cache

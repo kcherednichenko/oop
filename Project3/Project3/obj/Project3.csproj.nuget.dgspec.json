@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/Project3.csproj": {}
+  },
+  "projects": {
+    "/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/Project3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/Project3.csproj",
+        "projectName": "Project3",
+        "projectPath": "/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/Project3.csproj",
+        "packagesPath": "/Users/ekaterinacerednicenko/.nuget/packages/",
+        "outputPath": "/Users/ekaterinacerednicenko/VisualStudioProjects/Project3/Project3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ekaterinacerednicenko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
